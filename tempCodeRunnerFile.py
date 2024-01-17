@@ -1,0 +1,1 @@
+Co_may_man.pack(side=tkinter.LEFT)
